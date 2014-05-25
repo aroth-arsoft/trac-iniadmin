@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+IniAdmin.egg-info/PKG-INFO
+IniAdmin.egg-info/SOURCES.txt
+IniAdmin.egg-info/dependency_links.txt
+IniAdmin.egg-info/entry_points.txt
+IniAdmin.egg-info/top_level.txt
+iniadmin/__init__.py
+iniadmin/iniadmin.py
+iniadmin/htdocs/css/iniadmin.css
+iniadmin/templates/iniadmin.html
