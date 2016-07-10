@@ -1,3 +1,11 @@
+trac-iniadmin (0.3+svn15657-1~aroth1) xenial; urgency=medium
+
+  * rebuild latest version
+  * use pybuild
+  * add missing SOURCES.txt
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sun, 10 Jul 2016 10:52:33 +0200
+
 trac-iniadmin (0.3+svn13607-1~aroth~ppa1) trusty; urgency=medium
 
   * upgrade to upstream version 0.3

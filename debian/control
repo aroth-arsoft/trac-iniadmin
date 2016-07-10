@@ -1,15 +1,15 @@
 Source: trac-iniadmin
 Section: web
 Priority: optional
-Build-Depends-Indep: python-setuptools (>= 0.5)
-Build-Depends: python-support, python-all-dev, cdbs, debhelper
+Standards-Version: 3.9.7
+Build-Depends: python-setuptools, debhelper (>= 9), dh-python, python (>= 2.7)
+X-Python-Version: >=2.7
 Maintainer: Python Applications Packaging Team <python-apps-team@lists.alioth.debian.org>
 Uploaders: W. Martin Borgert <debacle@debian.org>
-Standards-Version: 3.9.5
-XS-Python-Version: all
 Homepage: http://trac-hacks.org/wiki/IniAdminPlugin
 
 Package: trac-iniadmin
 Architecture: all
 Depends: ${python:Depends}, ${misc:Depends}, trac
 Description: Expose all TracIni options using the Trac config option API
+ Allow one to see and modify all trac configuration options.
