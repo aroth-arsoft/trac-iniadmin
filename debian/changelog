@@ -1,3 +1,9 @@
+trac-iniadmin (0.3+svn15657-1~aroth2) yakkety; urgency=medium
+
+  * rebuild
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Mon, 02 Jan 2017 15:20:11 +0100
+
 trac-iniadmin (0.3+svn15657-1~aroth1) xenial; urgency=medium
 
   * rebuild latest version
